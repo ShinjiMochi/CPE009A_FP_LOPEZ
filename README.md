@@ -1,4 +1,4 @@
-<h1 align="center">Object Oriented Programming Portfolio</h1>
+<h1 align="center">Ｏｂｊｅｃｔ Ｏｒｉｅｎｔｅｄ Ｐｒｏｇｒａｍｍｉｎｇ<br/>Ｐｏｒｔｆｏｌｉｏ</h1>
 
 ###
 
@@ -38,7 +38,18 @@
 
 ###
 
-<p align="left">✨ Fixing computers since 2018<br>📚 I'm currently learning Python, Javascript, C++.<br>🎯 Goals: Pass college with the best I can do</p>
+<p align="left">
+  ✨ Fixing computers since 2018.<br>
+  📚 I'm currently learning Python, Javascript, C++.<br>
+  🎮Hobbies: I enjoy playing games, mostly racing games or RPG games.<br>
+  🎯 Goals: Pass college with the best I can do.
+</p>
+
+###
+
+<div align="center">
+  <img width="450" src="https://github.com/user-attachments/assets/119d0298-a41c-4776-a8ac-7b963c90834d"  />
+</div>
 
 ###
 
