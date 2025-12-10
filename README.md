@@ -33,11 +33,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/ShinjiNaito">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ShinjiNaito&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ffeka4qkwj324qwxbf756ba72m)
 
 ###
 
