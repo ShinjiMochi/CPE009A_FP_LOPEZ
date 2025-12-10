@@ -7,4 +7,6 @@
   <br />
   <br />
   <img width="500" src="https://github.com/user-attachments/assets/e19273c1-e582-49f1-bfb1-cbfffdf47301" alt="Stay_Gold">
+  <br />
+  The programming languages used during this semester is Python.
 </p>
