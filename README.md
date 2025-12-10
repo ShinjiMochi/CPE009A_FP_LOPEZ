@@ -17,10 +17,10 @@
 ###
 
 <div align="left">
-  <a href="Shinji#6852" target="_blank">
+  <a href="Shinji#6852">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="dionlopez2306@gmail.com" target="_blank">
+  <a href="mailto:dionlopez2306@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/dion.lopez.344816" target="_blank">
