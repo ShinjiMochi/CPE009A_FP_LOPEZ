@@ -6,9 +6,9 @@
 
 ###
 
-<p align="center">
-  <img width="500" src="https://github.com/user-attachments/assets/e19273c1-e582-49f1-bfb1-cbfffdf47301" alt="Stay_Gold"/>
-</p>
+<div align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/e19273c1-e582-49f1-bfb1-cbfffdf47301"  />
+</div>
 
 ###
 
@@ -25,6 +25,14 @@
   </a>
   <a href="https://www.facebook.com/dion.lopez.344816" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/ShinjiNaito">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ShinjiNaito&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
