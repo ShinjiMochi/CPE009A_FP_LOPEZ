@@ -1,4 +1,7 @@
-<h1 align="center">Ｏｂｊｅｃｔ Ｏｒｉｅｎｔｅｄ Ｐｒｏｇｒａｍｍｉｎｇ<br/>Ｐｏｒｔｆｏｌｉｏ</h1>
+<h1 align="center">
+  Ｏｂｊｅｃｔ Ｏｒｉｅｎｔｅｄ Ｐｒｏｇｒａｍｍｉｎｇ<br/>
+  Ｐｏｒｔｆｏｌｉｏ
+</h1>
 
 ###
 
@@ -7,7 +10,7 @@
 ###
 
 <div align="center">
-  <img width="500" src="https://github.com/user-attachments/assets/e19273c1-e582-49f1-bfb1-cbfffdf47301"  />
+  <img width="450" src="https://github.com/user-attachments/assets/e19273c1-e582-49f1-bfb1-cbfffdf47301"  />
 </div>
 
 ###
@@ -38,17 +41,12 @@
 
 ###
 
-<p align="left">
-  ✨ Fixing computers since 2018.<br>
-  📚 I'm currently learning Python, Javascript, C++.<br>
-  🎮Hobbies: I enjoy playing games, mostly racing games or RPG games.<br>
-  🎯 Goals: Pass college with the best I can do.
-</p>
+<p align="left">✨ Fixing computers since 2018.<br><br>  📚 I'm currently learning Python, Javascript, C++.<br><br>  🎮Hobbies: I enjoy playing games, mostly racing games or RPG games.<br><br>  🎯 Goals: Pass college with the best I can do.</p>
 
 ###
 
 <div align="center">
-  <img width="450" src="https://github.com/user-attachments/assets/119d0298-a41c-4776-a8ac-7b963c90834d"  />
+  <img height="450" src="https://github.com/user-attachments/assets/119d0298-a41c-4776-a8ac-7b963c90834d"  />
 </div>
 
 ###
@@ -65,6 +63,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShinjiNaito09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShinjiNaito09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ShinjiNaito09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=ShinjiNaito09&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
