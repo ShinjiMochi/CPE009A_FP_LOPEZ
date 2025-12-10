@@ -6,5 +6,5 @@
   A Compilation of the Activites, Quizzes, and Projects in my CPE009A course.
   <br />
   <br />
-  <img width="700" src="https://github.com/user-attachments/assets/23057b3e-fa87-4329-aa70-abbb44ebd045" alt="Gilgamesh">
+  <img width="700" src="https://github.com/user-attachments/assets/e19273c1-e582-49f1-bfb1-cbfffdf47301" alt="Stay_Gold">
 </p>
