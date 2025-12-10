@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  <img height="500" src="https://github.com/user-attachments/assets/e19273c1-e582-49f1-bfb1-cbfffdf47301" alt="Stay_Gold"/>
+  <img width="500" src="https://github.com/user-attachments/assets/e19273c1-e582-49f1-bfb1-cbfffdf47301" alt="Stay_Gold"/>
 </p>
 
 ###
